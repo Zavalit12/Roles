@@ -8,7 +8,7 @@ https://docs.github.com/es/get-started/start-your-journey/git-and-github-learnin
 1. Luis  
 2. Pedro  
 3. María  
-...  
+...  aaaaaa
 12. 
 
 ## 1) Conceptos Generales para Tener en Cuenta
